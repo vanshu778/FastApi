@@ -1,0 +1,5 @@
+# Ignore FastAPI virtual environment
+.fastapi-venv/
+
+# Ignore Python bytecode cache
+__pycache__/
